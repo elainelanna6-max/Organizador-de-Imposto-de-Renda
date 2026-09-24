@@ -99,23 +99,19 @@ INFORME_APP.xlsx
 ├── INFORMES
 └── NOTAS
 
-🖼️ Imagens do projeto
+## 📸 Telas do Projeto
 
-Você pode criar uma pasta images no GitHub e adicionar suas capturas:
+### 1. Dados do Titular
 
-Depois, acrescente ao README:
+![Tela Dados do Titular](APP Informe 1.jpg)
 
-<h3>1. Dados do Titular</h3>
+### 2. Informes de Rendimentos Bancários
 
-<img src="images/APP Informe 1.jpg" width="800">
+![Tela Informes Bancários](APP Informe 2.jpg)
 
-<h3>2. Informes de Rendimentos Bancários</h3>
+### 3. Notas Bancárias e Extratos de Holerites
 
-<img src="images/APP Informe 2.jpg" width="800">
-
-<h3>3. Notas Bancárias e Extratos de Holerites</h3>
-
-<img src="images/APP Informe 3.jpg" width="800">
+![Tela Notas](APP Informe 3.jpg)
 
 📊 Competências demonstradas
 
