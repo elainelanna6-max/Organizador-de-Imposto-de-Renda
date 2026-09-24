@@ -103,15 +103,15 @@ INFORME_APP.xlsx
 
 ### 1. Dados do Titular
 
-![Tela Dados do Titular](APP Informe 1.jpg)
+![Tela Dados do Titular](images/app-informe-1.jpg)
 
 ### 2. Informes de Rendimentos Bancários
 
-![Tela Informes Bancários](APP Informe 2.jpg)
+![Tela Informes Bancários](images/app-informe-2.jpg)
 
 ### 3. Notas Bancárias e Extratos de Holerites
 
-![Tela Notas](APP Informe 3.jpg)
+![Tela Notas](images/app-informe-3.jpg)
 
 📊 Competências demonstradas
 
