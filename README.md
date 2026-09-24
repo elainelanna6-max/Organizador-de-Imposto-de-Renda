@@ -105,16 +105,17 @@ Você pode criar uma pasta images no GitHub e adicionar suas capturas:
 
 Depois, acrescente ao README:
 
-## 📸 Telas do projeto
+<h3>1. Dados do Titular</h3>
 
-### Dados do Titular
-![Tela Titular](images/APP Informe 1.jpg)
+<img src="images/APP Informe 1.jpg" width="800">
 
-### Informes Bancários
-![Tela Informes](images/APP Informe 2.jpg)
+<h3>2. Informes de Rendimentos Bancários</h3>
 
-### Notas e Entradas
-![Tela Notas](images/APP Informe 3.jpg)
+<img src="images/APP Informe 2.jpg" width="800">
+
+<h3>3. Notas Bancárias e Extratos de Holerites</h3>
+
+<img src="images/APP Informe 3.jpg" width="800">
 
 📊 Competências demonstradas
 
