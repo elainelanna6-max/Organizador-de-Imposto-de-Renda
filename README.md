@@ -90,28 +90,20 @@ Formatação de datas e valores monetários
 
 Organização visual de uma interface de aplicativo
 
-🗂️ Estrutura do arquivo
-
-INFORME_APP.xlsx
-│
-├── MENU
-├── TITULAR
-├── INFORMES
-└── NOTAS
-
 ## 📸 Telas do Projeto
 
 ### 1. Dados do Titular
 
-![Tela Dados do Titular](images/app-informe-1.jpg)
+![Tela Dados do Titular](./APP%20Informe%201.jpg)
 
 ### 2. Informes de Rendimentos Bancários
 
-![Tela Informes Bancários](images/app-informe-2.jpg)
+![Tela Informes Bancários](./APP%20informe%202.jpg)
 
 ### 3. Notas Bancárias e Extratos de Holerites
 
-![Tela Notas](images/app-informe-3.jpg)
+![Tela Notas](./APP%20Informe%203.jpg)
+
 
 📊 Competências demonstradas
 
